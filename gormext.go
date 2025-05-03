@@ -1,5 +1,5 @@
 package gormext
 
 func Hello() string {
-	return "Hello from gormext"
+	return "Hello from gormext version2"
 }
